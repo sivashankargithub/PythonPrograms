@@ -1,0 +1,12 @@
+import numpy as np
+kb1=np.array([100,200])
+rk1=np.array([300,400])
+del1=np.array([kb1,rk1])
+kb2=np.array([500,600])
+rk2=np.array([700,800])
+del2=np.array([kb2,rk2])
+kb3=np.array([900,1000])
+rk3=np.array([1100,1200])
+del3=np.array([kb3,rk3])
+del1=np.array([del1,del2,del3])
+print(del1)

@@ -1,0 +1,12 @@
+1.Ruturaj Gaikwad,Indian
+2.Rachin Ravindra,New Zeland
+3.Ajinkya Rahane,Indian
+4.Shivam Dube,Indian
+5.Daryl Mitchell,New Zeland
+6.Ravindra Jadeja,Indian
+7.MS Dhoni(C/WK),Indian
+8.Shardul Thakur,Indian
+9.Deepak Chahar,Indian
+10.Maheesh Theekshana,Indian
+11.Mukesh Chaudhary,Indian
+12.Moeen Ali/Mitchel Santner/Mustafizur Rahman,Foreigners
